@@ -1,0 +1,14 @@
+html, body {
+    height: 101%;
+    overflow: hidden;
+}
+
+div {
+    height: 100%;
+}
+
+object {
+    width: 100%;
+    min-height: 100%;
+}       
+
